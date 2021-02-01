@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2019, 7:16:14 PM
+    Author     : tweij
+*/
+.MediaView{
+    -fx-background-color: #263f44;
+}
+#pane{
+    -fx-background-color: #263f44;
+}
+
+.button{
+    -fx-background-color:transparent;
+    -fx-text-fill: white;
+}
+
+#btnOpen{
+    -fx-background-image:url("../../images/folder.png");
+    -fx-background-size:20 20;
+    -fx-background-repeat:no-repeat;
+    -fx-background-position:center;
+}
+
+#btnPlay{
+    -fx-background-image:url("../../images/play.png");
+    -fx-background-size:20 20;
+    -fx-background-repeat:no-repeat;
+    -fx-background-position:center;
+}
+
+#btnPause{
+    -fx-background-image:url("../../images/pause.png");
+    -fx-background-size:20 20;
+    -fx-background-repeat:no-repeat;
+    -fx-background-position:center;
+}
+
+#btnStop{
+    -fx-background-image:url("../../images/stop.png");
+    -fx-background-size:20 20;
+    -fx-background-repeat:no-repeat;
+    -fx-background-position:center;
+}
